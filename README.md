@@ -2,6 +2,13 @@
 
 CyberAZE community üzvləri tərəfindən yazılmış bloqların indeksi
 
+## Mündəricat
+
+- [Kernel & Exploit Development](#kernel--exploit-development)
+- [Malware Analysis & Reverse Engineering](#malware-analysis--reverse-engineering)
+- [OSINT](#osint)
+- [Video & Talks](#video--talks)
+
 ## Kernel & Exploit Development
 
 - [Kod execute dövrü bitdi?](https://medium.com/@1dont/kod-execute-dövrü-bitdi-a59aefadd228) - Windows kernel mitigationlar seriyası (1/3). DEP, SMEP, HVCI və exploit development-in təkamülü.
