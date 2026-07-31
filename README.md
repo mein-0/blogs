@@ -19,3 +19,7 @@ CyberAZE community üzvləri tərəfindən yazılmış bloqların indeksi
 
 - [OSINT № 5](https://medium.com/@nuranabdulhamidov/nuran-abdulhamidov-osint-5-f5eb2432cb99) - TikTok videosunun geolocation tədqiqi. Vizual ipucları ilə hadisə yerinin müəyyən edilməsi.
 - [Epstein, Profumo Affair & OSINT](https://www.linkedin.com/posts/mahammad-hamzayev_epstein-profumoaffair-osint-ugcPost-7431850408798576641-u8qL) - Tarixi casusluq skandallarından müasir OSINT/OPSEC dərsləri. Zəif məlumat yox, yanlış əminlik problemi.
+
+## Video & Talks
+
+- [Praktiki AI Part1: Agentic Sistemlərin Arxitekturası](https://www.youtube.com/watch?v=Y3BaTG-ctvU) - Agentic AI sistemlərin arxitekturası. Model/agent/context/harness anlayışları, prompt engineering-dən context engineering-ə, tool calling, agent loop və skills.
