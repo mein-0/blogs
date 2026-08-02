@@ -3,14 +3,24 @@
 CyberAZE community üzvləri tərəfindən yazılmış bloqların indeksi
 
 ## Mündəricat
-
+- [Game Reversing](#game-reversing)
+- [Educational Malware Development](#educational-malware-development)
 - [Kernel & Exploit Development](#kernel--exploit-development)
 - [Malware Analysis & Reverse Engineering](#malware-analysis--reverse-engineering)
 - [OSINT](#osint)
 - [Video & Talks](#video--talks)
 
-## Kernel & Exploit Development
+## Game Reversing
+- [Gəlin minesweeper-i hack edək](https://cushz.github.io/reverse-engineering/2025/07/20/lets-hack-minesweeper.html) - Minesweeperin reverse enginnering ilə flaglərinin tapılması və patch edilməsi
+- [Doom-u mikrodalğalı sobada işlətmək əvəzinə debug etmək](https://cushz.github.io/reverse-engineering/2025/05/10/debugging-doom-instead-of-running-it-on-the-microwave.html) - Doom oyununun güllə depo mexanizminin cheat engine ilə patch edilməsi.
 
+## Educational Malware Development
+
+- [Bitmap-lar o qədər də məsum deyil](https://cushz.github.io/malware-development/2024/12/12/bitmaps-are-not-that-innocent.html) - Bitmap filelarının analizi və calculatorun bitmap filelarına inject edilməsi
+- [Function Stomping Injection](https://cushz.github.io/malware-development/2023/05/11/function-stomping-injection.html) - Processlərin istifadə etdiyi DLLlərin araşdırılması və custom shellcode inject edilməsi
+
+## Kernel & Exploit Development
+- [Windows mitigation-ları ilə mübarizə apararaq kernel driver exploit etmək](https://cushz.github.io/exploit-development/2026/07/31/exploiting-kernel-driver-while-fighting-with-windows-mitigations.html) - Windows 10 sistemində HEVD driverinin exploitationu zamanı SMEP və KASLR bypass metodologiyası 
 - [Kod execute dövrü bitdi?](https://medium.com/@1dont/kod-execute-dövrü-bitdi-a59aefadd228) - Windows kernel mitigationlar seriyası (1/3). DEP, SMEP, HVCI və exploit development-in təkamülü.
 - [Kernel bizə inanır? (!)](https://medium.com/@1dont/kernel-bizə-inanır-c39af8f5869d) - HEVD Stack Overflow zəifliyi ilə kernelə shellcode injection. Token stealing-in avtomatlaşdırılması.
 - [Windows Kernel Data-Only Attack](https://medium.com/@1dont/windows-kernel-data-only-attack-5ac958b71345) - Kod execute etmədən privilege escalation. `_SEP_TOKEN_PRIVILEGES` manipulyasiyası, PPL bypass.
