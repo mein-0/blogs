@@ -27,6 +27,8 @@ CyberAZE community üzvləri tərəfindən yazılmış bloqların indeksi
 - [BYOVD: 2 Driver, 2 Primitiv, 1 Attack Chain](https://medium.com/@1dont/byovd-2-driver-2-primitiv-1-attack-chain-e7450ba7e8cf) - CVE-2026-0828 (kill primitivi) və CVE-2025-7771 (arbitrary R/W) ilə SYSTEM-ə qədər tam attack chain.
 - [Fortinet is dead?](https://medium.com/@1dont/fortinet-is-dead-45780b6b008b) - FortiClient-in "anti-exploit" driverində zəiflik. 8 baytlıq mesajla PPL bypass və Defender/LSASS kill.
 - [CVE-2021–30807 IOMobileFrameBuffer Out-of-Bounds Write](https://medium.com/@1dont/cve-2021-30807-iomobileframebuffer-out-of-bounds-write-34ee5ca60f6e) - iOS kernel analizi. OOB write-dan heap feng shui və tfp0-a qədər jailbreak zənciri.
+- [Secure Image Object — Part 1](https://medium.com/@1dont/secure-image-object-part-1-9ea7124de2d8) - Windows "Secure" Kernel? `securekernel.exe` və `ntoskrnl.exe`-nin birgə işləməsi. NAR/NTE strukturları və Secure Image Objectlərin reverse engineering analizi.
+- [SEH Exploitation Overflow — Vulnserver GMON](https://medium.com/@heracpp/seh-exploitation-overflow-vulnserver-gmon-e32ed0b9b0f3) - VulnServer GMON komandası üzərində SEH overflow zəifliyinin exploitationu. SEH mexanizmindən real shell alana qədər addım-addım izah.
 
 ## Malware Analysis & Reverse Engineering
 
